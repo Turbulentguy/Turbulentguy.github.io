@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sawitt Ngamvilaisiriwong / Site Title"
+title                    : "Sawitt Ngamvilaisiriwong"
 title_separator          : "-"
-name                     : &name "Sawitt Ngamvilaisiriwong"
-description              : &description "Sup"
+name                     : "Sawitt Ngamvilaisiriwong"
+description              : "Sup"
 url                      : https://Turbulentguy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://turbulentguy.github.io/"
